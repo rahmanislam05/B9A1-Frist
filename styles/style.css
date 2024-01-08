@@ -1,0 +1,85 @@
+/* common style */
+* {
+    margin: 0 30px;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+}
+
+/* banner er style */
+.banner {
+    background-image: url('/ascet/Banner\ Image.png');
+    background-size: cover;
+    color: white;
+    margin-top: 40px;
+    border-radius: 16px;
+}
+
+.banner-title>h1 {
+    font-size: 50px;
+}
+
+.banner-title>p {
+    font-size: 20px;
+}
+
+.banner-title {
+    padding: 150px 50px 210px 50px;
+    text-align: center;
+}
+
+/* main section styles */
+.off {
+    margin-top: 120px;
+}
+
+.off-title {
+    text-align: center;
+}
+
+.off-title>h1 {
+    color: #FF0000;
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+
+.off-title>p {
+    color: #FF0000;
+    font-size: 20px;
+}
+
+.off-title>h5 {
+    font-size: 40px;
+}
+
+.off-img {
+    text-align: center;
+}
+
+/*grid photo section */
+.photo-flex {
+    width: 30px;
+    height: 40px;
+    border-radius: 16px;
+}
+
+/* newsletter section */
+.newsletter {
+    background: rgba(255, 0, 0, 0.05);
+    margin-top: 80px;
+    text-align: center;
+    padding: 60px 200px;
+    /* margin-right: 30px;
+    margin-left: 30px; */
+}
+.newsletter>h4 {
+    font-style: bold;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.newsletter>p{
+    color: rgba(7, 2, 17, 0.60);
+    margin-top: 22px;
+    margin-bottom: 40px;
+}
