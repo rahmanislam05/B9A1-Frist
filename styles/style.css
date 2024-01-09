@@ -5,7 +5,7 @@ body {
 
 /* banner er style */
 .banner {
-    background-image: url('/ascet/banner-image.png');
+    background-image: url('../ascet/banner-image.png');
     background-size: cover;
     color: white;
     margin-top: 40px;
@@ -90,5 +90,4 @@ body {
 }
 .newslatter-input{
     gap: 0; 
-    margin: 0px;
 }
