@@ -6,9 +6,9 @@ body {
 /* banner er style */
 .banner {
     background-image: url('../ascet/banner-image.png');
+    background-position: center;
     background-size: cover;
     color: white;
-    margin-top: 40px;
     border-radius: 16px;
 }
 
@@ -52,11 +52,7 @@ body {
 }
 
 /*grid photo section */
-.photo-flex {
-    width: 30px;
-    height: 40px;
-    border-radius: 16px;
-}
+
 
 /* newsletter section */
 .newsletter {
@@ -90,4 +86,23 @@ body {
 }
 .newslatter-input{
     gap: 0; 
+}
+/* footer style */
+footer{
+    background-color: black;
+    color:white ;
+    font-size: 14px;
+    margin-top: 50px;
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-center{
+    text-align: center;
+
+}
+.footer-bottom{
+    display: flex;
+    justify-content: space-between
 }
