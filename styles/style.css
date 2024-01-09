@@ -83,3 +83,18 @@ body {
     margin-top: 22px;
     margin-bottom: 40px;
 }
+.btn-sub{
+    background-color: #FF0000;
+    color: aliceblue;
+    border-radius: 0 50px 50px 0;
+    border: 0;
+    padding: 15px 30px;  
+}
+.newslatter-gmail{
+    padding: 15px 30px;
+    border-radius: 50px 0 0 50px; 
+    border: 0;
+}
+.newslatter-input{
+    
+}
