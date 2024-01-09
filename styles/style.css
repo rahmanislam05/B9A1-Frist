@@ -9,7 +9,7 @@ body {
 
 /* banner er style */
 .banner {
-    background-image: url('/ascet/Banner\ Image.png');
+    background-image: url('/ascet/banner-image.png');
     background-size: cover;
     color: white;
     margin-top: 40px;
