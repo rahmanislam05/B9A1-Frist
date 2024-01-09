@@ -53,9 +53,21 @@ body {
     text-align: center;
 }
 
-/*grid photo section */
-
-
+/*best gift section */
+.best-gift{
+    margin: 0 110px;
+}
+.best-gift .red{
+    color: #FF0000;
+}
+.best-gift h3{
+    font-size: 25px;
+    padding: 10px 0;
+}
+.best-gift p{
+    font-size: 15px;
+    color: rgba(7, 2, 17, 0.60);
+}
 /* newsletter section */
 .newsletter {
     background: rgba(255, 0, 0, 0.05);
